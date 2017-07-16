@@ -1,0 +1,22 @@
+{
+  "name": "spamlimiterbot",
+  "version": "0.1.0",
+  "description": "Limit spam in your Telegram chat",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lestad/spamlimiterbot.git"
+  },
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestad/spamlimiterbot/issues"
+  },
+  "homepage": "https://github.com/lestad/spamlimiterbot#readme",
+  "dependencies": {
+    "telegraf": "^3.8.1"
+  }
+}
